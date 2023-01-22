@@ -1,7 +1,6 @@
+# Mupltiple Critiera Decision Making (MCDM) using TOPSIS
+
 # Background 
-
-## Mupltiple Critiera Decision Making (MCDM) using TOPSIS
-
 ## Program Run below Steps :
 
 1. Convert categorical to numeric
